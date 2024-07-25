@@ -98,4 +98,6 @@ The POM framework is implemented in the `pages/` directory. Each page has its ow
 1. Clone the repository and install the dependencies.
 2. Configure the settings in `settings/settings.json`.
 3. Run the tests using the Playwright CLI.
+4. Please note UI tests are dependent on each other since we are writing data from one test to other, so its
+recommended to run in serial mode only
 

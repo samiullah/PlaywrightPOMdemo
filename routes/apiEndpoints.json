@@ -1,0 +1,8 @@
+{
+    "createUser": "https://thinking-tester-contact-list.herokuapp.com/users",
+    "getUser": "https://thinking-tester-contact-list.herokuapp.com/users/{userId}",
+    "updateUser": "https://thinking-tester-contact-list.herokuapp.com/users/{userId}",
+    "deleteUser": "https://thinking-tester-contact-list.herokuapp.com/users/{userId}",
+    "fileDownload" : "https://v2.convertapi.com/d/f04ue6tn8ehxru6hp8e30uwhs1f4ahcv",
+    "uploadUrl" : "https://v2.convertapi.com/upload"
+}
