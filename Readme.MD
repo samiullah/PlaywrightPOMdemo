@@ -1,6 +1,6 @@
 STATUS:
 [![Playwright Tests](https://github.com/samiullah/searchStaxAssignment/actions/workflows/playwright.yml/badge.svg)](https://github.com/samiullah/searchStaxAssignment/actions/workflows/playwright.yml)
-# Playwright Assignment
+# PlaywrightDemo
 
 This assignment demonstrates how to create UI and API tests using Playwright and JavaScript, following the Page Object Model (POM) framework. The project includes instructions for setting up and executing the tests.
 
